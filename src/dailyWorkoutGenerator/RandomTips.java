@@ -12,7 +12,8 @@ public class RandomTips implements TipsService {
 	private String[] tips = {"Focus on contracting the muscles.",
 							 "Have a protein shake within 30 minutes of finishing your workout.",
 							 "Keep your form throughout every lift.",
-							 "Add 5lbs to your workouts after a solid week of easy sets."
+							 "Add 5lbs to your workouts after a solid week of easy sets.",
+				 			 "Make sure to have recovery days to let your muscles repair."
 	};
 	
 	
