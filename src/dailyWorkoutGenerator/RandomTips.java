@@ -13,7 +13,8 @@ public class RandomTips implements TipsService {
 							 "Have a protein shake within 30 minutes of finishing your workout.",
 							 "Keep your form throughout every lift.",
 							 "Add 5lbs to your workouts after a solid week of easy sets.",
-				 			 "Make sure to have recovery days to let your muscles repair."
+				 			 "Make sure to have recovery days to let your muscles repair.",
+							 "Warm up a bit before stretching with a walk or slight jog on the treadmill."
 	};
 	
 	
