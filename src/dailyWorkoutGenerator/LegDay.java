@@ -35,7 +35,8 @@ public class LegDay implements Workout {
 				+ "Leg Extension: 3 sets of 12\n"
 				+ "Leg Curl: 3 sets of 12\n"
 				+ "Standing Calf Raise: 4 sets of 12\n"
-				+ "Seated Calf Raise: 2 sets of 12\n";
+				+ "Seated Calf Raise: 2 sets of 12\n"
+				+ "Stretch with lunges and butterflies\n";
 				
 	}
 	
