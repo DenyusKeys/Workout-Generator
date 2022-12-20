@@ -1,4 +1,7 @@
 # Workout-Generator
  Weekly workouts and tips
- -Simply run the program and it will output a workout for that given day
- as well as a random workout tip.
+ -Created in Eclipse using Java Spring
+ 
+ -Displays a workout for the day along with a workout tip.
+ -The workout is determined by which @bean is being called from the container
+ 
