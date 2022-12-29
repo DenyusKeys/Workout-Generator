@@ -13,7 +13,8 @@ public class RandomTips implements TipsService {
 							 "Have a protein shake within 30 minutes of finishing your workout to aid in recovery.",
 							 "Focus on your form throughout every lift to minimize injury risk.",
 							 "Add 5lbs to your workouts after a solid week of easy sets.",
-							 "Rest days are important to allow your muscles to repair and grow."
+							 "Rest days are important to allow your muscles to repair and grow.",
+							 "Tapping the muscles you're using will help your nervous system activate in that area."
 	};
 	
 	
